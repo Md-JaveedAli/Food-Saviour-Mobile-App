@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326363435351",
+    "firebase_url": "https://feed-99567-default-rtdb.firebaseio.com",
+    "project_id": "feed-99567",
+    "storage_bucket": "feed-99567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326363435351:android:0502c2ba73d146d7ef2e12",
+        "android_client_info": {
+          "package_name": "com.example.feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326363435351-k6g30kovusp2jm63kr4kkn1o08ue5755.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJRrQb2165i-_eU8Y14mydPqww6pe_UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326363435351-k6g30kovusp2jm63kr4kkn1o08ue5755.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
